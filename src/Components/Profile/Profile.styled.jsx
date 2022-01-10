@@ -5,6 +5,8 @@ export const ProfileContainer = styled.div`
   margin-right: auto;
   width: 500px;
   box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+  border: 1px solid #F4F1F1;
+
 
 `;
 
