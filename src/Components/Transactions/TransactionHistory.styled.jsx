@@ -12,7 +12,7 @@ margin: 0px auto;
 
    
 export const TransactionHead = styled.thead`
-background-color: #F3F6F9;
+background-color: #00BCD5;
 color: white;
 height: 40px;
 text-transform: uppercase;
